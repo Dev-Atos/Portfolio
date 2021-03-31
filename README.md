@@ -11,6 +11,6 @@ O controle das tarefas desse projeto será realizado no GitHub
 
 :up: atualização
 
-:beattle: correção de bug
+:space_invader: correção de bug
 
 :checkered_flag: release
